@@ -1,5 +1,5 @@
 const employee = {
-    name: "Candy",
+    name: "Anthony",
     streetAddress: "11 Broadway",
 }    
 
